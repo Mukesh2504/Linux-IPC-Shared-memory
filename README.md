@@ -147,9 +147,9 @@ int main() {
 }
 ```
 
-
-
 ## OUTPUT
+![Screenshot 2024-10-16 062829](https://github.com/user-attachments/assets/dfae32c7-5a08-4065-aea6-6e6f0635fe8d)
+![Screenshot 2024-10-16 062902](https://github.com/user-attachments/assets/149cd724-8b1e-47ff-9415-b3154d0a6f76)
 
 
 # RESULT:
